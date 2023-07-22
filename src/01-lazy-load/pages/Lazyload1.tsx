@@ -5,3 +5,5 @@ export const Lazyload1 = () => {
   </>
  );
 };
+
+export default Lazyload1;
